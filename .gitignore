@@ -1,0 +1,9 @@
+*.s#?
+*.b#?
+.modgit
+*.gch
+.pio*
+.clang_complete
+.gcc-flags.json
+.sconsign.dblite
+.build
